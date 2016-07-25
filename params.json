@@ -1,0 +1,6 @@
+{
+  "name": "VBA Documentation Cleanup",
+  "tagline": "To-do list for cleaning up vba related tags on Stack Overflow Documentation",
+  "body": "##The List\r\n\r\nTask|Owner|Status\r\n----|-----|------\r\nMove `Scripting.Dictionary` topic to **vba**|Jeeped|In Progress\r\nExample of something that's been done|Macro Man|Complete  \r\n\r\n\r\n***\r\n\r\n### Authors and Contributors\r\n+ [Macro Man](http://stackoverflow.com/users/4240221/macro-man) (@Macro-Man)\r\n+ [Jeeped](http://stackoverflow.com/users/4039065/jeeped) (@Jeeped)\r\n+ [Comintern](http://stackoverflow.com/users/4088852/comintern) (@comintern)\r\n+ [Gary Evans](http://stackoverflow.com/users/6299399/gary-evans) (@garye686)\r\n\r\n### Support or Contact\r\nYou can get in touch with us via the [VBA Lounge](http://chat.stackoverflow.com/rooms/111528/vba-lounge) in chat\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
