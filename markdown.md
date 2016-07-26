@@ -4,6 +4,7 @@ Teable Header 1|Table Header 2|Table Header 3|
 ---------------|--------------|---------------
 Content 1|Content 2|Content 3
 Content 4|Content 5|Content 6
+- [ ] Checkbox in a table| - [x] Other in a table | BLANK
 
 *Some Italic*  
 **Some Bold**  
