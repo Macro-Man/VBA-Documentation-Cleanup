@@ -10,6 +10,14 @@ ___
 - [X] Currently being edited by @Macro-Man
 - [ ] Finalised (0d-Mmm-YYYY)
 
+___
+### Issues
+
+|Desciption|Reason|Added By|Actioned to Item No.|
+|----------|------|--------|--------------------|
+|`Looping` topic in `excel-vba` tag|Not specific to Excel|Macro Man|&nbsp;|  
+___
+
 ### Items
 
 |Item No.|Task|Transfer From|Transfer To|Assigned To|Completed|
