@@ -6,8 +6,8 @@ ___
 
 ### List status
 
-- [ ] Draft
-- [X] Currently being edited by @Macro-Man
+- [X] Draft
+- [ ] Currently being edited by @Macro-Man
 - [ ] Finalised (0d-Mmm-YYYY)
 
 ___
